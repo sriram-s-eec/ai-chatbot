@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Root Cause Analysis Bot",
+  "description": "An AI assistant for factory engineers that analyzes maintenance logs, PLC error data, and operation manuals to identify probable root causes and suggest effective fixes."
+}
